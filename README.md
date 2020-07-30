@@ -1,1 +1,4 @@
-# Python-Visualization
+# 통계시각화
+
+### Python의 대표적인 통계시각화 라이브러리인 Seaborn을 실습합니다.
+
